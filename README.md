@@ -1,4 +1,4 @@
-# rust-gcp-iot
+# Rust ラズパイ 4 に DHT11 センサを取り付けて温湿度を GCP に PubSub してみる
 
 A sample device in rust for sending data to Google Cloud IoT Core over MQTT.
 
@@ -11,8 +11,6 @@ On ubuntu:
 -   [rust compiler](https://www.rust-lang.org)
 -   pkg-config
 -   git
-
--   Rust ラズパイ 4 に DHT11 センサを取り付けて温湿度を GCP に PubSub してみる
 
 # How to run:
 
